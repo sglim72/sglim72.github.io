@@ -1,12 +1,11 @@
-## Welcome to GitHub Pages
+# 내 공부방입니다.
+## 본 페이지에 오신걸 환영합니다.
 
-You can use the [editor on GitHub](https://github.com/SangGyu-Lim/sglim72.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[내부 링크](post)입니다.
+[외부 링크](http://naver.com)입니다.
 
 ### Markdown
-
-[Link](post)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
